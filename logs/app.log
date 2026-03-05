@@ -1,0 +1,23 @@
+12:18:13.982 [main] INFO  org.example.testng.FormTest - Start Before Method
+12:18:20.040 [main] INFO  org.example.testng.FormTest - Start Test
+12:18:27.433 [main] INFO  org.example.testng.FormTest - First Name set
+12:18:32.320 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+12:18:37.456 [main] INFO  org.example.testng.FormTest - Finish Test
+12:18:37.494 [main] INFO  org.example.testng.FormTest - Start After Method
+12:19:40.631 [main] INFO  org.example.testng.FormTest - Start Before Method
+12:19:43.362 [main] INFO  org.example.testng.FormTest - Start Test
+12:19:49.640 [main] INFO  org.example.testng.FormTest - First Name set
+12:19:54.112 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+12:20:02.023 [main] INFO  org.example.testng.FormTest - Start After Method
+12:20:24.342 [main] INFO  org.example.testng.FormTest - Start Before Method
+12:20:27.018 [main] INFO  org.example.testng.FormTest - Start Test
+12:20:33.234 [main] INFO  org.example.testng.FormTest - First Name set
+12:20:37.722 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+12:20:42.801 [main] INFO  org.example.testng.FormTest - Finish Test
+12:20:42.830 [main] INFO  org.example.testng.FormTest - Start After Method
+12:27:39.098 [main] INFO  org.example.testng.FormTest - Start Before Method
+12:27:41.876 [main] INFO  org.example.testng.FormTest - Start Test
+12:27:48.920 [main] INFO  org.example.testng.FormTest - First Name set
+12:27:57.784 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+12:28:02.875 [main] INFO  org.example.testng.FormTest - Finish Test
+12:28:02.909 [main] INFO  org.example.testng.FormTest - Start After Method
