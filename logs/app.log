@@ -21,3 +21,18 @@
 12:27:57.784 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
 12:28:02.875 [main] INFO  org.example.testng.FormTest - Finish Test
 12:28:02.909 [main] INFO  org.example.testng.FormTest - Start After Method
+10:17:16.507 [main] INFO  org.example.testng.FormTest - Start Before Method
+10:17:18.534 [main] INFO  org.example.testng.FormTest - Start Test
+10:17:19.477 [main] INFO  org.example.testng.FormTest - Navigated to: https://demoqa.com/automation-practice-form
+10:17:21.162 [main] INFO  org.example.testng.FormTest - Form is visible, starting to fill
+10:17:21.771 [main] INFO  org.example.testng.FormTest - First Name set
+10:17:28.137 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.198 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.257 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.298 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.346 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.378 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.419 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.457 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 30 seconds
+10:17:28.490 [main] INFO  org.example.testng.FormTest - Finish Test
+10:17:28.509 [main] INFO  org.example.testng.FormTest - Start After Method
